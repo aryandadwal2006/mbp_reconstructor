@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a high-performance C++ implementation for reconstructing **MBP-10** (Market by Price – top 10 levels) data from **MBO** (Market by Order) streams. It was built for the Blockhouse Quantitative Developer work trial, balancing **correctness** and **maximum speed**.
+This is a high-performance C++ implementation for reconstructing **MBP-10** (Market by Price – top 10 levels) data from **MBO** (Market by Order) streams. It was built for balancing **correctness** and **maximum speed**.
 
 ## 🎯 Key Features
 
